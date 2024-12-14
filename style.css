@@ -1,0 +1,56 @@
+body {
+	background-color: hsl(233, 47%, 7%);
+}
+
+.container {
+	width: 375px;
+	background-color: hsl(244, 38%, 16%);
+	border-radius: 10px;
+	overflow: hidden;
+	margin: 35px auto;
+	height: 47rem;
+	
+}
+
+img {
+	width: 100%;
+
+}
+.mainTexto{
+	color: hsla(0, 0%, 100%, 0.6);
+	padding-left: 25px;
+	padding-right: 25px;
+	align-content: center;
+	text-align: center;
+	height: 480px;
+
+}
+
+h1{
+	font-family: 'Lexend Deca', sans-serif;
+	color: white;
+}
+.title-color{
+	color: hsl(277, 64%, 61%);
+}
+.parrafo{
+	color: hsla(0, 0%, 100%, 0.6);
+	font-family: 'Inter', sans-serif;
+	margin-bottom: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+}
+h3{
+	font-family: 'Lexend Deca', sans-serif;
+	font-weight: bold;
+	color: white;
+	margin-top: -0.5rem;
+}
+p{
+	color: hsla(0, 0%, 100%, 0.6);
+	font-family: 'Inter', sans-serif;
+	margin-top: -0.5rem;
+	
+
+}
